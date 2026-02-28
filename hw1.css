@@ -1,0 +1,101 @@
+/*
+    Name: Zia A Ali
+    Date Created: 2/26/2026
+    Date Modified: 2/26/2026
+    Purpose: JS file for HW 1
+*/
+
+header{
+    width: 100%;
+    background-color: rgb(158, 70, 161);
+}
+
+body{
+    display: flex;
+    align-items: center;
+    background-color: rgb(100, 149, 237);
+    margin: 0;
+    height: 100%;
+    max-height: 100%;
+    max-width: 100%;
+    min-height: 100vh;
+}
+
+form{
+    flex-grow: 1;
+}
+
+h1, h2 {
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    flex-grow: 1;
+}
+
+main {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal;
+    flex-grow: 1;
+}
+
+image {
+    text-align: center;
+}
+
+.td1 {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: normal;
+}
+
+th {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+footer {
+    position: flex;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(158, 70, 161);
+    height: 3.0 rem;
+}
+
+#footer {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: normal;
+    margin-right: 10px;
+}
+
+label {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: normal;
+}
+
+input {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: normal;
+}
+
+textarea {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: normal;
+}
+
+#today{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: normal;
+    margin-right: 5px;
+}
+
+p {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: normal;
+}
