@@ -105,7 +105,7 @@ function validatePhone() {
         document.getElementById("phone error").innerHTML = "Enter a valid Phone number"
         return false;
    }
-    const formatPhone = document.getElementById(phone error)= "Please enter phone number in correct format"
+    const formatPhone = document.getElementById(phone_error)= "Please enter phone number in correct format"
 }
 function validateUser() {
     user = document.getElementById("user").value.toLowerCase();
